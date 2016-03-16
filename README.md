@@ -20,5 +20,5 @@ consumed by each script below 10 seconds (time limit set by Code Eval).
 There are 3 directories, `easy/`, `moderate/` and `hard/` corresponding
 with the level of the challenges in the website. Inside of each problem
 directory are two types of files, the `*.py` files are the ones with the
-code and the `data.txt` files are those which contains the inputs to 
+code and the `data` files are those which contains the inputs to 
 test the code.
