@@ -26,6 +26,8 @@ def main():
 
         print o_str
 
+    test_cases.close()
+
 
 if __name__ == '__main__':
     main()
