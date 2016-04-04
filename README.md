@@ -1,5 +1,5 @@
 # CodeEval
-https://www.codeeval.com/vivekpabani
+https://www.codeeval.com/profile/vivekpabani
 
 # Code Eval Solutions
 
